@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WanmuApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>buildNumber</key>
+			<string>7</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>01BC57274D90C40D35FF03071673CD6164A152C2</string>
+				<key>dateExpires</key>
+				<string>2023/7/9</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V9LC4R3CVJ.com.wanmu.qingkeapp</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V9LC4R3CVJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>WanmuApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e468f6bf-3e7e-46e0-9d9b-11f8a4826755</string>
+				<key>dateExpires</key>
+				<string>2023/7/9</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.wanmu.qingkeapp</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V9LC4R3CVJ</string>
+				<key>name</key>
+				<string>mingzhou lv</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

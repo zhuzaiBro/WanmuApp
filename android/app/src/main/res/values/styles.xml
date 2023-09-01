@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar"> -->
+     <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- <item name="android:windowTranslucentStatus">true</item> // 设置状态栏不占据空间 -->
+    <item name="android:windowLightStatusBar">true</item> // 设置状态栏字体颜色
+        <!-- Customize your theme here. -->
+        <!-- <item name="android:editTextBackground">@drawable/rn_edit_text_material</item> -->
+    </style>
+
+</resources>
